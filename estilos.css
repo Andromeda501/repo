@@ -1,0 +1,42 @@
+body{
+	background: gray;
+	font-family: Helvatica;
+}
+#container {
+	width=70%;
+	margin: 10px auto;
+	border: 2px solid white;
+}
+header{
+	background: #393d42;
+	
+	margin: 0%;
+	border-top: 20px #393d42;
+	text-align: center; 
+	line-height: 100 px;
+	color: black;
+}
+h1{
+	text-align:center;
+}
+p{
+	width : 70%;
+	text-align:center;
+}
+
+aside{
+	float:top;
+	float:right;
+	width: 20%;
+}
+footer{
+	background: black;
+	height: 100 px;
+	width: 100%;
+}
+p2{
+	
+	color: white;
+	float:center;
+	text-align:center;
+}
